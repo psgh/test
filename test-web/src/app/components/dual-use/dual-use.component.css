@@ -1,0 +1,12 @@
+input {
+  width: 100%;
+}
+
+.alert {
+  color: red;
+}
+
+.alert div {
+  padding: 0;
+  border: 0;
+}
